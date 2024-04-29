@@ -6,3 +6,4 @@ analyze:
   checkers:
     webapp-security:
       enabled: true
+      
